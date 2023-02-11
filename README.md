@@ -10,6 +10,12 @@ Learn more
 ```
   git clone https://github.com/Teemo4621/BotDiscordSetup.git
 ```
-```cd BotDiscordSetup```
-```npm i```
-```node .```
+```
+cd BotDiscordSetup
+```
+```node
+npm i
+```
+```node
+node .
+```
