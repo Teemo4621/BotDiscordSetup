@@ -7,7 +7,9 @@ Learn more
 
 <h3>Install & Run</h3>
 
-```git clone https://github.com/Teemo4621/BotDiscordSetup.git```
+```
+  git clone https://github.com/Teemo4621/BotDiscordSetup.git
+```
 ```cd BotDiscordSetup```
 ```npm i```
 ```node .```
